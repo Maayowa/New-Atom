@@ -6,3 +6,4 @@ df2
 df3 = pd.concat([df,df2], axis = 1)
 df3
 df4 = df3 - df2
+df = df3
